@@ -22,7 +22,7 @@ The project supports two types of releases:
 1. **Commit Messages**: Use [Conventional Commits](https://www.conventionalcommits.org/) format:
 
     ```
-    feat: add new Leetify integration feature
+    feat: add new integration feature
     fix: resolve profile loading issue
     docs: update installation instructions
     chore: update dependencies
