@@ -22,7 +22,7 @@ export default {
 				assets: [
 					{
 						path: 'cswatchin-extension-*.zip',
-						label: 'Leetify Extension Plugin (${nextRelease.gitTag})',
+						label: 'CSwatch.in Extension Plugin (${nextRelease.gitTag})',
 					},
 				],
 			},
