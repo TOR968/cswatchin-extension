@@ -1,6 +1,4 @@
-# CSWatch.in Extension for Millennium
-
-![Example](./assets/icons/logo.png)
+# ![Example](./assets/icons/logo.png)
 
 Plugin for viewing statistics from the CSWatch.in website directly in your Steam profile
 
