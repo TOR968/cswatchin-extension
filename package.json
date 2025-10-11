@@ -1,38 +1,38 @@
 {
-	"scripts": {
-		"dev": "millennium-ttc --build dev",
-		"watch": "nodemon --watch webkit --watch frontend --ext ts,tsx,js,jsx --exec \"millennium-ttc --build dev\"",
-		"build": "millennium-ttc --build prod",
-		"sync-version": "npx tsx scripts/sync-version.ts 1.0.0",
-		"release": "npx tsx scripts/build-plugin.ts 1.0.0"
-	},
-	"devDependencies": {
-		"@semantic-release/changelog": "^6.0.3",
-		"@semantic-release/commit-analyzer": "^11.1.0",
-		"@semantic-release/exec": "^6.0.3",
-		"@semantic-release/git": "^10.0.1",
-		"@semantic-release/github": "^9.2.6",
-		"@semantic-release/release-notes-generator": "^12.1.0",
-		"@types/node": "^20.19.20",
-		"@types/react": "^19.2.2",
-		"@types/react-dom": "^19.2.1",
-		"archiver": "^6.0.2",
-		"nodemon": "^3.1.10",
-		"semantic-release": "^22.0.12",
-		"tsx": "^4.20.6",
-		"typescript": "^5.9.3"
-	},
-	"type": "module",
-	"name": "cswatch-extension",
-	"version": "1.0.0",
-	"description": "A Millennium plugin that adds CSWatch integration to Steam profiles",
-	"main": "./frontend/index.tsx",
-	"author": "CSWatch Extension Team",
-	"license": "MIT",
-	"dependencies": {
-		"@steambrew/api": "^5.6.0",
-		"@steambrew/client": "^5.6.0",
-		"@steambrew/ttc": "^2.7.5",
-		"@steambrew/webkit": "^5.6.0"
-	}
+  "scripts": {
+    "dev": "millennium-ttc --build dev",
+    "watch": "nodemon --watch webkit --watch frontend --ext ts,tsx,js,jsx --exec \"millennium-ttc --build dev\"",
+    "build": "millennium-ttc --build prod",
+    "sync-version": "npx tsx scripts/sync-version.ts 1.0.0",
+    "release": "npx tsx scripts/build-plugin.ts 1.0.0"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/commit-analyzer": "^11.1.0",
+    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^9.2.6",
+    "@semantic-release/release-notes-generator": "^12.1.0",
+    "@types/node": "^20.19.20",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.1",
+    "archiver": "^6.0.2",
+    "nodemon": "^3.1.10",
+    "semantic-release": "^22.0.12",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  },
+  "type": "module",
+  "name": "cswatch-extension",
+  "version": "1.0.0",
+  "description": "A Millennium plugin that adds CSWatch integration to Steam profiles",
+  "main": "./frontend/index.tsx",
+  "author": "CSWatch Extension Team",
+  "license": "MIT",
+  "dependencies": {
+    "@steambrew/api": "^5.6.0",
+    "@steambrew/client": "^5.6.0",
+    "@steambrew/ttc": "^2.7.5",
+    "@steambrew/webkit": "^5.6.0"
+  }
 }
