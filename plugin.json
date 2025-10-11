@@ -1,0 +1,7 @@
+{
+	"$schema": "https://raw.githubusercontent.com/SteamClientHomebrew/Millennium/main/src/sys/plugin-schema.json",
+	"name": "cswatch-extension",
+	"common_name": "CSWatch Extension",
+	"description": "A Millennium plugin that adds CSWatch integration to Steam profiles.",
+	"version": "1.0.0"
+}
