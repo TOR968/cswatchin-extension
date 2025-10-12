@@ -1,6 +1,6 @@
 # ![Example](./assets/icons/logo.png)
 
-Plugin for viewing statistics from the CSWatch.in website directly in your Steam profile
+Plugin for viewing statistics from the [CSWatch.in](https://cswatch.in) website directly in your Steam profile
 
 ## 📋 Prerequisites
 
@@ -14,6 +14,7 @@ Before installing this plugin, ensure you have:
 ![Example](./assets/images/example2.png)
 ![Example](./assets/images/example3.png)
 ![Example](./assets/images/example4.png)
+![Example](./assets/images/example5.png)
 
 ---
 
