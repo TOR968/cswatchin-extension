@@ -2,10 +2,11 @@ import Millennium  # pyright: ignore[reportMissingImports]
 import PluginUtils  # pyright: ignore[reportMissingImports]
 import requests
 import json
+import cloudscraper
 from logger import logger
 from settings import PluginSettings  # Import settings
 
-session = requests.Session()
+session = cloudscraper.create_scraper()
 
 plugin_settings = PluginSettings()
 
