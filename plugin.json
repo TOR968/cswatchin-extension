@@ -3,5 +3,5 @@
 	"name": "cswatch-extension",
 	"common_name": "CSWatch Extension",
 	"description": "A Millennium plugin that adds CSWatch integration to Steam profiles.",
-	"version": "1.0.0"
+	"version": "1.0.1"
 }

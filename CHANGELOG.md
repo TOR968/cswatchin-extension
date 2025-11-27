@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/TOR968/cswatchin-extension/compare/v1.0.0...v1.0.1) (2025-11-27)
+
+
+### Bug Fixes
+
+* Switch HTTP session to cloudscraper in backend ([dfe4bcf](https://github.com/TOR968/cswatchin-extension/commit/dfe4bcf7dd6156c8dd965c714e05810c400a79da))
+
 # 1.0.0 (2025-10-12)
 
 
